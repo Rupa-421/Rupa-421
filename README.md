@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupa-421&show_icons=true&locale=en" alt="rupa-421" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupa-421&" alt="rupa-421" /></p>
+<p><img src="https://stats.quine.sh/Rupa-421/github?theme=dark">p>
